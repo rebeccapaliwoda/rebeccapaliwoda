@@ -1,1 +1,5 @@
-## Hi, I'm Rebecca and 
+![banner](assets/pink_glasses.png)
+
+
+## Hi, I'm Rebecca
+
